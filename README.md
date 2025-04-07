@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @codezerox86
-- 👀 I’m interested in data structures and algorithms.
-- 🌱 I’m currently learning data structures and algorithms
+
+- 👀 Interested in data structures and algorithms.
 - 💞️ I’m looking to collaborate on .NET projects
 
 <!---
