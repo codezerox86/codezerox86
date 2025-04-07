@@ -1,6 +1,6 @@
 
-- 👀 Interested in data structures and algorithms.
-- 💞️ I’m looking to collaborate on .NET projects
+- 👀 Having fun with data structures and algorithms.
+- 💞️ I’m looking to collaborate on .NET projects.
 
 <!---
 codezerox86/codezerox86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
